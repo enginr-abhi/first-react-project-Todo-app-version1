@@ -1,0 +1,22 @@
+h1{
+  font-weight: 700;
+  font-size: 45px;
+  text-transform: uppercase;
+  margin: 10px;
+  margin-bottom: 20px;
+}
+input{
+  width: 100%;
+}
+.items-conatiner{
+  text-align: left;
+}
+.addbtn{
+  min-width: 73px;
+  float: left;
+}
+.kg-row{
+  margin: 10px 5px;
+}
+
+
